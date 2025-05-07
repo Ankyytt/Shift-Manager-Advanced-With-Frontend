@@ -1,9 +1,9 @@
 # Shift-Manager-Advanced-With-Frontend
 An advanced version for Shift Management System for Roster Building
 
-File to large
+File to large to be uploaded in GITHUB
 
-Mail the owner at ankitdas2003@gmail.com to get the zip file and more info
+Mail the owner at ankitdas2003@gmail.com to get the zip file for whole project and more info...
 
 To Run
 1. Open a Terminal, Go to Frontend Folder (cd frontend), Write- npm start
